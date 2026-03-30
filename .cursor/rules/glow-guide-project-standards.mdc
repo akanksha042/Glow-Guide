@@ -1,0 +1,21 @@
+---
+description: Core Glow Guide standards and required context files
+alwaysApply: true
+---
+
+# Glow Guide Project Rule
+
+This is the Glow Guide project - a skincare recommendation website for Indian women.
+
+Before doing ANYTHING in this project, always read:
+1. `ARCHITECT.md` - project structure, tech stack, pages, database schema
+2. `UI_RULES.md` - all design decisions, colors, fonts, animations
+3. `AI_PROMPT.md` - only when working on the AI recommendation engine
+
+## Hard Rules
+
+- Never use fonts other than Cormorant Garamond and DM Sans.
+- Always write TypeScript, never plain JavaScript.
+- Always mobile first.
+- Every UI decision must feel warm, feminine, luxurious.
+- The user is an Indian woman aged 18-35. Design for her.
