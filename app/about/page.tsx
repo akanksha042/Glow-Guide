@@ -137,8 +137,8 @@ export default function AboutPage() {
               ))}
             </div>
             <p className="mt-6 font-[family-name:var(--font-cormorant-garamond)] text-2xl italic text-mocha-400">
-              If you have ever looked in the mirror and thought, "I just want to feel
-              a little more like myself again." This is for you.
+              If you have ever looked in the mirror and thought, &quot;I just want to feel
+              a little more like myself again.&quot; This is for you.
             </p>
           </motion.section>
 
